@@ -1,0 +1,25 @@
+WT
+	-Total reads: 66070011
+	-Aligned reads: 65286011
+	-Aligned Reads trusted: 50096606
+WT DOX
+	-Total reads: 48368545
+	-Aligned reads: 47842530
+	-Aligned Reads trusted: 36528914
+KO
+	-Total reads: 45152993
+	-Aligned reads: 44742716
+	-Aligned Reads trusted: 35128495
+KO DOX
+	-Total reads: 24015136
+	-Aligned reads: 23782491
+	-Aligned Reads trusted: 19770274
+
+KO2_DOX normalization factor = 2.46492532425
+WT2 normalization factor = 1.0
+KO2 normalization factor = 1.39156263076
+WT2_DOX normalization factor = 1.355835213
+(4, 'experiments written to BED graph files in', '/home/linux/ATACSeq2/ATACSeq2_p10', ':')
+['KO2_DOX', 'WT2', 'KO2', 'WT2_DOX']
+Experiments: ['KO2_DOX', 'WT2', 'KO2', 'WT2_DOX']
+

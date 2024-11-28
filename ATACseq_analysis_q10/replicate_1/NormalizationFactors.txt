@@ -1,0 +1,4 @@
+KO1 normalization factor = 1.29960522073
+WT1 normalization factor = 1.0
+KO1_DOX normalization factor = 1.88341164618
+WT1_DOX normalization factor = 1.2343686211

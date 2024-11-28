@@ -1,0 +1,40 @@
+	-Total reads: 75787767
+	-Aligned reads: 75118725
+	-Aligned Reads trusted: 53774465
+
+	-Total reads: 73674725
+	-Aligned reads: 73045386
+	-Aligned Reads trusted: 54370101
+
+	-Total reads: 51884505
+	-Aligned reads: 51457323
+	-Aligned Reads trusted: 38289828
+
+	-Total reads: 65680595
+	-Aligned reads: 65131282
+	-Aligned Reads trusted: 48043014
+------------------------------------------------------
+	-Total reads: 75787767
+	-Aligned reads: 75118725
+	-Aligned Reads trusted: 53774465
+
+	-Total reads: 73674725
+	-Aligned reads: 73045386
+	-Aligned Reads trusted: 54370101
+
+	-Total reads: 51884505
+	-Aligned reads: 51457323
+	-Aligned Reads trusted: 38289828
+
+	-Total reads: 65680595
+	-Aligned reads: 65131282
+	-Aligned Reads trusted: 48043014
+
+KO3 normalization factor = 1.39416610458
+WT3 normalization factor = 1.01924782852
+KO3_DOX normalization factor = 1.10798251934
+WT3_DOX normalization factor = 1.0
+(4, 'experiments written to BED graph files in', '/home/linux/NEW_ATACSeq/NEW_ATACSeq_analysis_q10/', ':')
+['KO3', 'WT3', 'KO3_DOX', 'WT3_DOX']
+Experiments: ['KO3', 'WT3', 'KO3_DOX', 'WT3_DOX']
+
